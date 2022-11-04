@@ -1,0 +1,102 @@
+*
+{
+	padding: 0%;
+	margin: 0%;
+}
+
+#logo
+{
+	padding-right: 50px;
+	padding-top: 1px;
+	width: 250px;
+	height: 150px;
+}
+
+#aside-title
+{
+	float: left;
+}
+
+h1
+{
+	font-family: Girdens;
+	font-size: 50px;
+	text-align: left;
+	color: #331e09;
+	text-shadow: 2px 2px 4px #473310;
+	padding: 1%;
+}
+
+body
+{
+	background: black;
+	font-family: 'Lato', sans-serif;
+	  color: #FDFCFB;
+	  text-align: center;
+	  background-size: cover;
+}
+
+header
+{
+	padding-right: 5%;
+	height: 150px;
+	background-color: white;
+}
+
+ul
+{
+	padding-left: 5%;
+}
+
+.summary
+{
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	padding-top: 2%;
+}
+
+.content
+{
+	font-family: Georgia;
+	font-size: 20px;
+	text-align: justify;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 2%;
+	padding-bottom: 4%;
+	color: white;
+	border-style: double;
+	border-color: #331e09;
+	border-width: 5px;
+}
+
+.ulC {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #006656;
+  }
+  
+  .liC {
+	float: left;
+  }
+  
+  .liC a {
+	display: block;
+	color: white;
+	font-style: italic;
+	text-align: center;
+	font-size: 16pt;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  .liC a:hover:not(.active) {
+	background-color: #00a3b3;
+  }
+  
+  .active {
+	background-color: #009900;
+  }
